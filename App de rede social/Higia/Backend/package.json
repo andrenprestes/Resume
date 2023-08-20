@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "joi": "^17.6.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.4",
+    "nodemon": "^2.0.15",
+    "underscore": "^1.13.2"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.4"
+  }
+}

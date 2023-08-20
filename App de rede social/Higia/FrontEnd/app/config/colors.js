@@ -1,0 +1,16 @@
+export default {
+    green: "#53B146",
+    white: "#fff",
+    grey: "#b4b3b4",
+    shadow: '#52006A',
+    purple: "#7f4ca1",
+    violet: "#f6def8",
+    black: "#494949",
+    back: "#fcfcfc",
+    gold: "#FFD700",
+    pink: "#FFE3E3",
+    dark: "#000",
+    darkGrey: "#949494",
+    light: "#f7f7f7",
+    red: "#ff5252",
+}
